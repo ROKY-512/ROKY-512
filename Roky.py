@@ -1,2 +1,0 @@
-import roky
-roky.menu()
